@@ -39,6 +39,18 @@ A Windows Forms application built using C# (.NET Framework) and SQL Server, desi
 
 <img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/90ee32c5-1730-48a7-82fa-2dbd21bce950" />
 
+<img width="1268" height="648" alt="Image" src="https://github.com/user-attachments/assets/84a9c996-fe6e-4c74-92ee-fa761b0c8a20" />
+
+<img width="1127" height="759" alt="Image" src="https://github.com/user-attachments/assets/cdd06fae-c837-4b6d-98fe-72b9c7f0cb61" />
+
+<img width="863" height="838" alt="Image" src="https://github.com/user-attachments/assets/be5c0b7c-d34c-4092-ae33-6c10aaf1c6ff" />
+
+<img width="1090" height="619" alt="Image" src="https://github.com/user-attachments/assets/2a2af920-2d18-4b96-8c2b-30d229a4f45d" />
+
+<img width="868" height="716" alt="Image" src="https://github.com/user-attachments/assets/58f45247-56e4-427e-b315-9a0421bdfeeb" />
+
+<img width="1384" height="760" alt="Image" src="https://github.com/user-attachments/assets/fb496145-5c77-410c-b978-daf37e02c30e" />
+
 ## 📩 Contact
 
 Made by [Huzifa Mukhtar](https://github.com/Huzifa-coder)
