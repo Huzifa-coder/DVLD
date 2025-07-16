@@ -24,13 +24,6 @@ A Windows Forms application built using C# (.NET Framework) and SQL Server, desi
 - `DVLD_SE`: User interface (WinForms)
 - `Program.cs`: Application entry point
 
-## 🚀 How to Run
-
-1. Clone the repository
-2. Set up the SQL Server database (scripts in `Database` folder)
-3. Configure the connection string in `App.config`
-4. Open in Visual Studio and run
-
 ## 📸 Screenshots
 
 <img width="784" height="443" alt="Image" src="https://github.com/user-attachments/assets/46349b84-3568-4db2-8413-c75f1b52da08" />
