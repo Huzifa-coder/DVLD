@@ -45,5 +45,5 @@ A Windows Forms application built using C# (.NET Framework) and SQL Server, desi
 <img width="1384" height="760" alt="Image" src="https://github.com/user-attachments/assets/fb496145-5c77-410c-b978-daf37e02c30e" />
 
 ## 📩 Contact
-
+Email: huzifamukhtaryagoub@gmail.com 
 Made by [Huzifa Mukhtar](https://github.com/Huzifa-coder)
