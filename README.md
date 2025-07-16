@@ -21,7 +21,7 @@ A Windows Forms application built using C# (.NET Framework) and SQL Server, desi
 
 - `DVLD_DataAccess`: Database interaction classes
 - `DVLD_Business`: Business logic classes
-- `DVLD_Presentation`: User interface (WinForms)
+- `DVLD_SE`: User interface (WinForms)
 - `Program.cs`: Application entry point
 
 ## 🚀 How to Run
